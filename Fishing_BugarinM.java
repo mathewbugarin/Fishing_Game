@@ -1,7 +1,3 @@
-/** Mathew Bugarin
-   Zhang T/Th 11:00-12:30
-   12 April 2018
-**/
    /**This programs serves as a .class file for FishingDemo_BugarinM. It
    contains a series of methods that include a constructor method, a
    method that will simulate a die, and a getter method that will get
