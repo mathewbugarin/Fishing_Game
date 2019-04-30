@@ -1,7 +1,3 @@
-/** Mathew Bugarin
-   Zhang T/Th 11:00-12:30
-   12 April 2018
-**/
    /** This demo program simulates a fishing game. This program will not run properly without
    Fishing_BugarinM.class. The program will prompt the user to play and keep playing
    until the user is finished. The items fished will be randomly based on a 6 sided
